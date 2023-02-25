@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Responsive-Bakery-Website/static/css/main.79cad14d.css",
-    "main.js": "/Responsive-Bakery-Website/static/js/main.d1a8728e.js",
+    "main.js": "/Responsive-Bakery-Website/static/js/main.4e5404f5.js",
     "static/media/fa-solid-900.ttf": "/Responsive-Bakery-Website/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
     "static/media/fa-brands-400.ttf": "/Responsive-Bakery-Website/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
     "static/media/fa-solid-900.woff2": "/Responsive-Bakery-Website/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
@@ -21,10 +21,10 @@
     "static/media/fa-v4compatibility.woff2": "/Responsive-Bakery-Website/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/Responsive-Bakery-Website/index.html",
     "main.79cad14d.css.map": "/Responsive-Bakery-Website/static/css/main.79cad14d.css.map",
-    "main.d1a8728e.js.map": "/Responsive-Bakery-Website/static/js/main.d1a8728e.js.map"
+    "main.4e5404f5.js.map": "/Responsive-Bakery-Website/static/js/main.4e5404f5.js.map"
   },
   "entrypoints": [
     "static/css/main.79cad14d.css",
-    "static/js/main.d1a8728e.js"
+    "static/js/main.4e5404f5.js"
   ]
 }
