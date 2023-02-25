@@ -25,11 +25,11 @@ function Header() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav" className="justify-content-center m-auto ps-md-5">
                         <Nav className="me-auto gap-md-5 nav__item">
-                            <Nav.Link href="/home">Home</Nav.Link>
-                            <Nav.Link href="/about">About</Nav.Link>
-                            <Nav.Link href="/offers">Our Offers</Nav.Link>
-                            <Nav.Link href="/gallery">Gallery</Nav.Link>
-                            <Nav.Link href="/contact">Contact Us</Nav.Link>
+                            <Nav.Link href="#/home">Home</Nav.Link>
+                            <Nav.Link href="#/about">About</Nav.Link>
+                            <Nav.Link href="#/offers">Our Offers</Nav.Link>
+                            <Nav.Link href="#/gallery">Gallery</Nav.Link>
+                            <Nav.Link href="#/contact">Contact Us</Nav.Link>
 
                         </Nav>
 
