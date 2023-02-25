@@ -1,0 +1,9 @@
+
+.logo{color: brown;
+}
+.navbar{ position: fixed !important;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: #E0D8B0;
+}

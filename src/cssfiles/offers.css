@@ -1,0 +1,34 @@
+.offerbk-ground
+{background-image: url("/src/images/bkk.jpg");
+    background-size: cover;
+    height: 50vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+    text-align: center;
+   
+
+}
+.offerbk-ground h1 {
+font-size: 40px;
+padding-top: 15px;
+  
+}
+
+.offercontainar{margin-top: 50px;
+line-height: 2.0;}
+.sec{height: 40vh;;}
+.offery{display: flex;}
+.off{width: 50%;}
+.kind{color: black;}
+.price{display: flex;
+  flex-direction: row;
+justify-content: flex-end;
+font-size: 16px;
+font-weight: 400;}
+
+  
+ 
+
