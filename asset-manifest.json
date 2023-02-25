@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Responsive-Bakery-Website/static/css/main.79cad14d.css",
+    "main.js": "/Responsive-Bakery-Website/static/js/main.27d6d224.js",
+    "static/media/fa-solid-900.ttf": "/Responsive-Bakery-Website/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/Responsive-Bakery-Website/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/Responsive-Bakery-Website/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/photo.jpg": "/Responsive-Bakery-Website/static/media/photo.9cfef6befc59a1740118.jpg",
+    "static/media/fa-brands-400.woff2": "/Responsive-Bakery-Website/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/img2.jpg": "/Responsive-Bakery-Website/static/media/img2.106ba96e17a07b8ca80c.jpg",
+    "static/media/img6.jpg": "/Responsive-Bakery-Website/static/media/img6.09335f0f397dc2f19698.jpg",
+    "static/media/img1.jpg": "/Responsive-Bakery-Website/static/media/img1.7c3b26e2206d9d957aa3.jpg",
+    "static/media/img5.jpg": "/Responsive-Bakery-Website/static/media/img5.2ddd5e30717dce1bb8f2.jpg",
+    "static/media/bkk.jpg": "/Responsive-Bakery-Website/static/media/bkk.bfa18271bbe6cd89c285.jpg",
+    "static/media/img3.jpg": "/Responsive-Bakery-Website/static/media/img3.a6045fd10c64f3f34f6a.jpg",
+    "static/media/fa-regular-400.ttf": "/Responsive-Bakery-Website/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/img7.jpg": "/Responsive-Bakery-Website/static/media/img7.7c1574739dc85808be6a.jpg",
+    "static/media/img4.jpg": "/Responsive-Bakery-Website/static/media/img4.927a9633ab541a0269e4.jpg",
+    "static/media/fa-regular-400.woff2": "/Responsive-Bakery-Website/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Responsive-Bakery-Website/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Responsive-Bakery-Website/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/Responsive-Bakery-Website/index.html",
+    "main.79cad14d.css.map": "/Responsive-Bakery-Website/static/css/main.79cad14d.css.map",
+    "main.27d6d224.js.map": "/Responsive-Bakery-Website/static/js/main.27d6d224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79cad14d.css",
+    "static/js/main.27d6d224.js"
+  ]
+}
