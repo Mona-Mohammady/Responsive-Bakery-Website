@@ -14,7 +14,7 @@ function Header() {
         <>
             <Navbar className="navbar" expand="lg">
                 <Container>
-                    <Navbar.Brand href="/home">
+                    <Navbar.Brand href="#/home">
                         <div className="logo">
                            
                             <h2>Bakery</h2>
